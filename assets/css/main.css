@@ -30,7 +30,7 @@
 :root{
     --c-bg: hsl(1, 17%, 95%);
     --c-text: hsl(0, 15%, 55%);
-    --font-family: "Campton" , sans-serif;
+    --font-family: "Dancing Script" , sans-serif;
     --font-serif: "Didot LT" , Didot, serif;
     --font-size: 17px;
     --font-lineheight: 26px;
@@ -134,7 +134,6 @@ body{
 }
 .text{
     text-align:center;
-    text-transform:uppercase;
     margin-top:3rem;
     margin-bottom:3rem;
     padding:0 1rem
